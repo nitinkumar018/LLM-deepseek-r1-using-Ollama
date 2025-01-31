@@ -1,4 +1,4 @@
-# Local Deployment: Run an LLM model locally on your laptop using Ollama
+# Mini Project: Run an LLM model locally on your laptop using Ollama (Local Deployment)
 ## Ollama is a platform that provides a local and private way to run LLM models on your PC, without internet, without relying on the cloud. So, it keeps the data on the local device and ensuring more privacy and security
 
 # Steps:
